@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "juststraight",
+  "version": "1.3.3.7",
+  "name": "JustStraight",
+  "description": "A mod that simply runs straight ahead for you.",
+  "icon": "assets/juststraight/icon.png",
+  "authors": ["NDev007"],
+  "license": "MIT License",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ndev.juststraight.client.JuststraightMod"
+    ],
+    "modmenu": [
+      "ndev.juststraight.client.JuststraightModMenuIntegration"
+    ]
+  },
+  "contact": {
+    "homepage": "https://modrinth.com/mod/juststraight",
+    "sources": "https://github.com/NDev007/JustStraight",
+    "issues": "https://github.com/NDev007/JustStraight/issues"
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric": "*",
+    "minecraft": ["1.21.6", "1.21.7", "1.21.8"],
+    "cloth-config": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/juststraight",
+        "modmenu.modrinth": "https://modrinth.com/mod/juststraight",
+        "modmenu.donate" : "https://ko-fi.com/ndev007"
+      }
+    }
+  }
+}

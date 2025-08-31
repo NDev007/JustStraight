@@ -1,0 +1,45 @@
+/execute in minecraft:the_nether
+/execute at Player756 in minecraft:the_nether
+/execute at Player756 in minecraft:the_nether at Player756
+/execute as Player756 in minecraft:the_nether
+/execute in minecraft:the_nether run tp Player756 0 130 0
+/attribute @s minecraft:generic.food run base set 6
+/effect give @s minecraft:hunger 1 10 true
+/effect give @s minecraft:hunger 5 10 true
+/effect give @s minecraft:hunger 5 255 true
+/effect give @s minecraft:hunger 2 255 true
+/effect give @s minecraft:hunger 4 255 true
+/tick rate 1000
+/tick rate 10000
+/tick rate 20
+/tick rate 1
+/tick rate 5
+/tick rate 20
+/tick rate 10
+/tick rate 20
+/spawnpoint Player779
+/gamerule keepInventory true
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/tick rate 2
+/tick rate 20
+/locate structure minecraft:nether_fossil
+/tp @s 672 ~ -128
+/tick rate 10000
+/execute in minecraft:the_nether run tp Player756 0 130 0
+/execute in minecraft:the_nether run tp Player779 0 130 0
+/tick rate 20

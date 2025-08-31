@@ -1,0 +1,16 @@
+{
+  "modmenu.nameTranslation.juststraight": "JustStraight",
+  "modmenu.descriptionTranslation.juststraight": "Мод который просто вместо вас бежит прямо.",
+
+  "item_group.juststraight": "JustStraight",
+  "key.juststraight.toggle": "Вкл/Выкл JustStraight",
+  "text.autoconfig.juststraight.title": "JustStraight",
+  "text.autoconfig.juststraight.option.sprint": "Бегать в спринте",
+  "text.autoconfig.juststraight.option.bunnyhop": "Банихоп (прыгать во время бега)",
+  "text.autoconfig.juststraight.option.autoEat": "Авто-поедание, если голод < указанного числа",
+  "text.autoconfig.juststraight.option.hungerThreshold": "Кол-во голода для авто-поедания",
+  "message.juststraight.enabled": "JustStraight %s",
+  "message.juststraight.disabled": "JustStraight %s",
+  "juststraight.word.enabled": "включён",
+  "juststraight.word.disabled": "выключен"
+}

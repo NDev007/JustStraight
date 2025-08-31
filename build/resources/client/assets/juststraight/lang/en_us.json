@@ -1,0 +1,16 @@
+{
+  "modmenu.nameTranslation.juststraight": "JustStraight",
+  "modmenu.descriptionTranslation.juststraight": "A mod that simply runs straight ahead for you.",
+
+  "item_group.juststraight": "JustStraight",
+  "key.juststraight.toggle": "On/Off JustStraight",
+  "text.autoconfig.juststraight.title": "JustStraight",
+  "text.autoconfig.juststraight.option.sprint": "Sprint while running",
+  "text.autoconfig.juststraight.option.bunnyhop": "Bunnyhop (jump while running)",
+  "text.autoconfig.juststraight.option.autoEat": "Auto-eat when hunger < specified number",
+  "text.autoconfig.juststraight.option.hungerThreshold": "Amount of hunger for automatic auto-eat",
+  "message.juststraight.enabled": "JustStraight %s",
+  "message.juststraight.disabled": "JustStraight %s",
+  "juststraight.word.enabled": "enabled",
+  "juststraight.word.disabled": "disabled"
+}
